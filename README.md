@@ -1,4 +1,4 @@
-# Few-shot-learning-awesome
+# Few-shot-learning-pytorch
 
 https://github.com/cyvius96/few-shot-meta-baseline
 
