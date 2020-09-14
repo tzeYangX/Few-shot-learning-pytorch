@@ -19,3 +19,12 @@ Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector, CVPR20
 https://github.com/tristandeleu/pytorch-meta
 
 A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
+
+https://github.com/jiaxi-wu/MPSR
+
+Multi-scale Positive Sample Refinement for Few-shot Object Detection, ECCV 2020
+
+https://github.com/floodsung/LearningToCompare_FSL
+
+Learning to Compare: Relation Network for Few-Shot Learning
+
