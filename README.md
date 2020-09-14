@@ -26,5 +26,11 @@ Multi-scale Positive Sample Refinement for Few-shot Object Detection, ECCV 2020
 
 https://github.com/floodsung/LearningToCompare_FSL
 
-Learning to Compare: Relation Network for Few-Shot Learning
+Learning to Compare: Relation Network for Few-Shot Learning, CVPR018
+
+https://github.com/WangYueFt/rfs/
+
+Rethinking Few-Shot Image Classification: A Good Embedding Is All You Need， CVPR2020
+
+
 
