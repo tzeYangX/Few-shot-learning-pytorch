@@ -32,5 +32,11 @@ https://github.com/WangYueFt/rfs/
 
 Rethinking Few-Shot Image Classification: A Good Embedding Is All You Need， CVPR2020
 
+https://github.com/icoz69/DeepEMD
+
+DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers" （CVPR 2020 oral）
+
+
+
 
 
