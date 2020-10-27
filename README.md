@@ -36,6 +36,10 @@ https://github.com/icoz69/DeepEMD
 
 DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers" （CVPR 2020 oral）
 
+https://github.com/bingykang/Fewshot_Detection
+
+Few-shot Object Detection via Feature Reweighting
+
 
 
 
