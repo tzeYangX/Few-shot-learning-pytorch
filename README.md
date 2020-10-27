@@ -40,7 +40,8 @@ https://github.com/bingykang/Fewshot_Detection
 
 Few-shot Object Detection via Feature Reweighting
 
+https://github.com/WenbinLee/DN4
 
-
+Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
 
 
