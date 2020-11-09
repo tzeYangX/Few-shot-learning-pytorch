@@ -44,4 +44,7 @@ https://github.com/WenbinLee/DN4
 
 Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
 
+https://github.com/Sha-Lab/FEAT
+
+Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions
 
