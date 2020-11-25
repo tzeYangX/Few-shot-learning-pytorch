@@ -48,3 +48,10 @@ https://github.com/Sha-Lab/FEAT
 
 Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions
 
+https://github.com/wyharveychen/CloserLookFewShot
+
+A Closer Look at Few-shot Classification
+
+https://github.com/gidariss/FewShotWithoutForgetting
+
+Dynamic Few-Shot Visual Learning without Forgetting
