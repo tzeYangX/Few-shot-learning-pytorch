@@ -55,3 +55,7 @@ A Closer Look at Few-shot Classification
 https://github.com/gidariss/FewShotWithoutForgetting
 
 Dynamic Few-Shot Visual Learning without Forgetting
+
+https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration
+
+Free Lunch for Few-Shot Learning: Distribution Calibration
