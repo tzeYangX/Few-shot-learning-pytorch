@@ -59,3 +59,11 @@ Dynamic Few-Shot Visual Learning without Forgetting
 https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration
 
 Free Lunch for Few-Shot Learning: Distribution Calibration
+
+https://github.com/WenbinLee/DN4
+
+Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
+
+https://github.com/hytseng0509/CrossDomainFewShot
+
+Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation
