@@ -68,3 +68,7 @@ https://github.com/liulu112601/URT
 
 Universal Representation Transformer Layer for Few-Shot Image Classification
 
+https://github.com/bl0/negative-margin.few-shot
+
+Negative Margin Matters: UnderstandingMargin in Few-shot Classification
+
