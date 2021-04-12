@@ -40,10 +40,6 @@ https://github.com/bingykang/Fewshot_Detection
 
 Few-shot Object Detection via Feature Reweighting
 
-https://github.com/WenbinLee/DN4
-
-Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
-
 https://github.com/Sha-Lab/FEAT
 
 Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions
@@ -67,3 +63,8 @@ Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning
 https://github.com/hytseng0509/CrossDomainFewShot
 
 Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation
+
+https://github.com/liulu112601/URT
+
+Universal Representation Transformer Layer for Few-Shot Image Classification
+
