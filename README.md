@@ -72,3 +72,7 @@ https://github.com/bl0/negative-margin.few-shot
 
 Negative Margin Matters: UnderstandingMargin in Few-shot Classification
 
+https://github.com/tiangeluo/fsl-global
+
+Few-Shot Learning with Global Class Representations
+
