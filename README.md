@@ -76,3 +76,7 @@ https://github.com/tiangeluo/fsl-global
 
 Few-Shot Learning with Global Class Representations
 
+https://github.com/iCVTEAM/S3Net
+
+Selective, Structural, Subtle: Trilinear Spatial-Awareness for Few-Shot Fine-Grained Visual Recognition
+
